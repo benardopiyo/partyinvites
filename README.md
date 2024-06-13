@@ -23,11 +23,11 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/party-invitation-platform.git
+git clone https://github.com/benardopiyo/partyinvites
 ```
 
 ```bash
-cd party-invitation-platform
+cd partyinvites
 ```
 2. Create HTML templates:
 
